@@ -1,0 +1,13 @@
+Использованные пакеты и программы
+https://github.com/kblin/ncbi-genome-download (Python)
+https://services.healthtech.dtu.dk/services/SignalP-6.0/
+https://rstudio.com/
+https://www.jetbrains.com/pycharm/
+stringi (R)
+string (R)
+ggridges (R)
+DescTools (R)
+data.table (R)
+dplyr (R)
+ggplot2 (R)
+
